@@ -1,18 +1,14 @@
-# Email Auto-Response Bot
+# Email AI Chat Bot
 
-An automated email response system that intelligently handles incoming emails based on their content and urgency.
+An automated email chatbot that identifies the emails and give replay for importent ones.
 
-## Features
+## Features of chatbot
 
-- 📧 Automatically checks your Gmail inbox
-- 🤖 Intelligently classifies emails based on content
-- ⚡ Sends automated responses for:
-  - Job applications
-  - Meeting requests
-  - Urgent messages
-  - Security alerts
-- 🔒 Secure authentication handling
-- 💻 Simple web interface
+- Automatically checks your Gmail inbox
+- Intelligently classifies emails based on content
+- Sends automated responses
+- Secure authentication handling
+- Simple web interface
 
 ## Setup
 
